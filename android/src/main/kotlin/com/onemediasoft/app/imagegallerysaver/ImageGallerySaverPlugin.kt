@@ -1,4 +1,4 @@
-package com.example.imagegallerysaver
+package com.onemediasoft.app.imagegallerysaver
 
 import androidx.annotation.NonNull
 import android.annotation.TargetApi
