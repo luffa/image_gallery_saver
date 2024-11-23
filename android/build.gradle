@@ -1,3 +1,7 @@
+ext {
+    flutterVersionCode = localProperties.getProperty('flutter.versionCode') ?: '1'
+    flutterVersionName = localProperties.getProperty('flutter.versionName') ?: '1.0'
+}
 group 'com.example.imagegallerysaver'
 version '1.0-SNAPSHOT'
 
