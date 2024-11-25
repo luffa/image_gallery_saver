@@ -20,7 +20,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.example.imagegallerysaver
+        package: com.onemediasoft.ibeef.imagegallerysaver
         pluginClass: ImageGallerySaverPlugin
       ios:
         pluginClass: ImageGallerySaverPlugin
